@@ -2,7 +2,7 @@
 CAP demos
 
 ## Stateful app
-`cd 07-shared-state/stateful-app`
+`cd stateful-app`
 
 `cf push --no-start`
 
